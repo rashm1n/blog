@@ -20,6 +20,12 @@ In this article lets go through the Whys, Whats and Hows of gRPC
 
 ## Remote Procedure Calls
 
+```go
+func main() {
+
+}
+```
+
 Before we dig our hands into gRPC. Lets start with the basics. What is really a remote procedure call or in short, a RPC ?
 
 A procedure call is a sequence of code which does some kind of specific task. The simplest example of a procedure call is any simple method. When you add the “remote” prefix to that word, it gives it whole another meaning.
