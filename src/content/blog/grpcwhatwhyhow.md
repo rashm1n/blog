@@ -6,13 +6,15 @@ title: gRPC — Why, What and How
 slug: grpc-why-what-and-how
 featured: true
 draft: false
-image: "https://images.unsplash.com/photo-1664380619395-a25d867b5fb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+image: ../../assets/images/pic4.jpg
 tags:
   - golang
   - grpc
   - microservices
 description: Introduction to gRPC
 ---
+
+![something](@assets/images/pic4.jpg)
 
 If you have been in the software industry for the last few years you must be well familiar with web services and how they are a major part of every enterprise application these days. SOAP, REST web services have been the front-runners of this web services revolution. But Since 2015 there is a new kid on the block ! Who is slowly getting traction and turning heads in the software industry. Its non other than the Google brain-child gRPC.
 
