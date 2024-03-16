@@ -3,7 +3,7 @@ author: Rashmin Mudunkotuwa
 pubDatetime: 2024-03-16T15:22:00Z
 modDatetime: 2024-03-16T15:22:00Z
 title: Java Bundles FOR THE WIN. Introductions to OSGI
-slug: java-bundles-intro-osgi
+slug: java-bundles-intro-osgi-1
 featured: true
 draft: false
 image: ../../assets/images/osgipic.jpg
