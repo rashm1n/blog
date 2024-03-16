@@ -1,7 +1,7 @@
 ---
 author: Rashmin Mudunkotuwa
-pubDatetime: 2024-03-16T15:22:00Z
-modDatetime: 2024-03-16T15:22:00Z
+pubDatetime: 2022-09-23T15:22:00Z
+modDatetime: 2023-12-21T09:12:47.400Z
 title: Java Bundles FOR THE WIN. Introductions to OSGI
 slug: java-bundles-introduction-to-osgi
 featured: true
