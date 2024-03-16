@@ -4,7 +4,7 @@ pubDatetime: 2022-09-23T15:22:00Z
 modDatetime: 2023-12-21T09:12:47.400Z
 title: gRPC — Why, What and How
 slug: grpc-why-what-and-how
-featured: true
+featured: false
 draft: false
 image: ../../assets/images/grpcblogpic1.jpg
 ogImage: ../../assets/images/grpcblogpic1.jpg
