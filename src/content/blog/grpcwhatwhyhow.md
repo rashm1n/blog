@@ -6,8 +6,8 @@ title: gRPC — Why, What and How
 slug: grpc-why-what-and-how
 featured: false
 draft: false
-image: ../../assets/images/grpcblogpic1.jpg
-ogImage: ../../assets/images/grpcblogpic1.jpg
+image: ../../assets/images/osgipic.jpg
+ogImage: ../../assets/images/osgipic.jpg
 tags:
   - golang
   - grpc

@@ -6,8 +6,8 @@ title: Introductions to OSGI
 slug: introduction-to-osgi
 featured: true
 draft: false
-image: ../../assets/images/osgipic.jpg
-ogImage: ../../assets/images/osgipic.jpg
+image: ../../assets/images/grpcblogpic1.jpg
+ogImage: ../../assets/images/grpcblogpic1.jpg
 tags:
   - java
   - osgi
