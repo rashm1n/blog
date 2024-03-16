@@ -6,11 +6,11 @@ title: Hello
 slug: hello
 featured: true
 draft: false
-image: ../../assets/images/osgipic.jpg
-ogImage: ../../assets/images/osgipic.jpg
+image: ../../assets/images/hello.jpg
+ogImage: ../../assets/images/hello.jpg
 tags:
   - hello
 description: Hello to rashmin.dev
 ---
 
-![something](@assets/images/grpcblogpic1.jpg)
+![something](@assets/images/hello.jpg)
