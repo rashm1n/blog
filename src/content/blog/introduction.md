@@ -6,7 +6,6 @@ title: Hello
 slug: hello
 featured: true
 draft: false
-image: ../../assets/images/hello.jpg
 ogImage: ../../assets/images/hello.jpg
 tags:
   - hello
