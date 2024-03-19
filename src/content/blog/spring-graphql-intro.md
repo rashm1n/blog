@@ -6,8 +6,8 @@ title: Introduction to Spring GraphQL
 slug: spring-graphql-intro
 featured: true
 draft: false
-image: ../../assets/images/osgipic.jpg
-ogImage: ../../assets/images/osgipic.jpg
+image: ../../assets/images/gqlintro0.jpg
+ogImage: ../../assets/images/gqlintro0.jpg
 tags:
   - graphql
   - spring
